@@ -1,9 +1,15 @@
 h1{
-    color: blue;
+    color: rgb(98, 8, 8);
 }
 h2{
     color: darkblue;
 }
+h3{
+    color: chocolate;
+}
+h4{
+    color: dodgerblue;
+}
 body{
-    background-color: aquamarine;
+    background-color: rgb(196, 246, 230);
 }
